@@ -1,0 +1,49 @@
+div
+{
+position: relative;
+background-color: red;
+  margin-bottom: 4%;
+}
+body{
+     margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+img{
+ border-radius: 100%;
+width: 5%;
+position: relative;
+left: 15.625%;
+display: inline-block;
+}
+.the{
+position: relative;
+display: inline-block;
+bottom: 2.1875rem;
+left: 85.25rem;
+} 
+.on{
+position: relative;
+display: inline-block;
+bottom: 2.1875rem;
+left: 75.25rem;
+}
+.ok{
+position: relative;
+display: inline-block;
+bottom: 2.1875rem;
+left: 65.25rem;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    text-decoration-line: none;
+font-size: 2.5rem;
+color: white;
+}
+.ok:hover{
+
+background-color: black;
+}
